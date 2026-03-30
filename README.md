@@ -122,7 +122,8 @@ Future Work
 Author
 ------
 
-Josef Pavlíček
+Josef Pavlíček author of aakordy.cz 
+josef.pavlicek@gmail.com,  guitarist at www.JPBand.cz, www.JazzLight.cz
 
 Research interests:
 - computational creativity
