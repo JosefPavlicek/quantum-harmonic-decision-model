@@ -123,7 +123,7 @@ Author
 ------
 
 Josef Pavlíček 
-- author of aakordy.cz 
+- author of www.aakordy.cz 
 - guitarist at www.JPBand.cz, www.JazzLight.cz
 - email: josef.pavlicek@gmail.com
 
