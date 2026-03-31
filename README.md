@@ -1,5 +1,3 @@
-# quantum-harmonic-decision-model
-
 Quantum Harmonic Decision Model
 ===============================
 
