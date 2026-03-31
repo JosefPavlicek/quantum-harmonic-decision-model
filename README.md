@@ -30,25 +30,24 @@ Repository Structure
 --------------------
 
 /advanced_quantum_optimizer/
-    main.py
-    musicxml_loader.py
-    ...
-    /output/
-       autumn_leaves_raw.xml
-       autumn_leaves_optimized.xml
-       tipperary_raw.xml
-       tipperary_optimized.xml
-       ...
-
+   main.py
+   musicxml_loader.py
+   ... 
+   /output/
+      autumn_leaves_raw.xml
+      autumn_leaves_optimized.xml
+      tipperary_raw.xml
+      tipperary_optimized.xml
+      ...
 /Harmonizer/
-    musicxml_optimizer.py
+   musicxml_optimizer.py
 
 /MusicLibrary/
    Autumn-Leaves.xml and other inputs
 
 /results/
-    metrics_tables.xlsx
-    evaluation_notes.txt
+   metrics_tables.xlsx
+   evaluation_notes.txt
 
 README.txt
 
