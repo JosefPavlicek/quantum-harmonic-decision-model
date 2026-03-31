@@ -33,15 +33,18 @@ Repository Structure
     main.py
     musicxml_loader.py
     ...
+    /output/
+       autumn_leaves_raw.xml
+       autumn_leaves_optimized.xml
+       tipperary_raw.xml
+       tipperary_optimized.xml
+       ...
 
 /Harmonizer/
     musicxml_optimizer.py
 
-/data/
-    autumn_leaves_raw.xml
-    autumn_leaves_optimized.xml
-    tipperary_raw.xml
-    tipperary_optimized.xml
+/MusicLibrary/
+   Autumn-Leaves.xml and other inputs
 
 /results/
     metrics_tables.xlsx
