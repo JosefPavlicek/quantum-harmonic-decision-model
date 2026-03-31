@@ -30,17 +30,21 @@ Repository Structure
 --------------------
 
 ## Repository Structure
+
+## Repository Structure
+
+```
 advanced_quantum_optimizer/
 │
 ├── main.py
 ├── musicxml_loader.py
 ├── ...
 ├── output/
-│ ├── autumn_leaves_raw.xml
-│ ├── autumn_leaves_optimized.xml
-│ ├── tipperary_raw.xml
-│ ├── tipperary_optimized.xml
-│ └── ...
+│   ├── autumn_leaves_raw.xml
+│   ├── autumn_leaves_optimized.xml
+│   ├── tipperary_raw.xml
+│   ├── tipperary_optimized.xml
+│   └── ...
 │
 Harmonizer/
 ├── musicxml_optimizer.py
@@ -54,6 +58,7 @@ results/
 ├── evaluation_notes.txt
 │
 README.md
+```
 
 
 How to Run
